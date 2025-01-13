@@ -25,4 +25,4 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: mmk602/todo-list-main:latest  # Adjust if your Docker Hub username or repo name differs
+        tags: mmk602/devops:latest
